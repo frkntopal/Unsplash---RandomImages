@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 30%;
+    margin: 10px;
+    border: 1px solid gray;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+h1 {
+    padding-top: 30px;
+    text-align: center;
+    font-family: 'Mynerve', cursive;
+}
+
+body {
+    background-color: aliceblue;
+}
